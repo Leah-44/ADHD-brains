@@ -6,6 +6,21 @@ const quotes = [
   "Focus comes after action.",
   "One task at a time.",
   "Your effort matters."
+  "You’re not lazy. You’re navigating a different operating system.",
+  "Starting is hard. That doesn’t mean you’re incapable.",
+  "Your brain runs on interest, not pressure — and that’s okay.",
+  "Small steps still count. Especially today.",
+  "Executive dysfunction is real. So is your potential.",
+  "You don’t lack discipline. You need the right spark.",
+  "Progress > perfection. Always.",
+  "Your creativity isn’t chaos — it’s unfiltered brilliance.",
+  "It’s not procrastination. It’s a brain waiting for momentum.",
+  "Hyperfocus is basically a superpower with poor scheduling.",
+  "You deserve systems that work with you, not against you.",
+  "One task. One start. That’s enough for now.",
+  "Your effort counts — even when it’s invisible to others.",
+  "ADHD isn’t a flaw. It’s high-voltage wiring.",
+  "You’re not behind. You’re just on a different timeline."
 ];
 
 function showRandomQuote() {
